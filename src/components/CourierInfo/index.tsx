@@ -3,7 +3,7 @@ import {useNavigation} from '@react-navigation/core';
 import {Image, TouchableOpacity} from 'react-native';
 import useColorScheme from '../../hooks/useColorScheme';
 import {COLORS, FONTS, icons} from '../../constants';
-import {Courier, Screen} from '../../types';
+import {Courier, Screen} from '../../typings';
 import {Text, View} from '../Themed';
 import styles from './styles';
 

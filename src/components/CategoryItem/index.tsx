@@ -2,7 +2,7 @@ import React from 'react';
 import {Image, TouchableOpacity} from 'react-native';
 import useColorScheme from '../../hooks/useColorScheme';
 import {COLORS} from '../../constants';
-import {Category} from '../../types';
+import {Category} from '../../typings';
 import {Text, View} from '../Themed';
 import styles from './styles';
 

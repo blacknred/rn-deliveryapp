@@ -2,7 +2,7 @@ import React from 'react';
 import {Image, TouchableOpacity} from 'react-native';
 import {useNavigation} from '@react-navigation/native';
 import useColorScheme from '../../hooks/useColorScheme';
-import {Restaurant, Screen} from '../../types';
+import {Restaurant, Screen} from '../../typings';
 import {COLORS, FONTS, icons} from '../../constants';
 import {Text, View} from '../Themed';
 import styles from './styles';

@@ -8,7 +8,7 @@ import {
 } from '@react-navigation/native';
 import OrderDeliveryScreen from '../screens/OrderDelivery';
 import LinkingConfiguration from './LinkingConfiguration';
-import {RootStackParamList, Screen} from '../types';
+import {RootStackParamList, Screen} from '../typings';
 import RestaurantScreen from '../screens/Restaurant';
 import HomeTabNavigator from './HomeTabNavigator';
 import NotFoundScreen from '../screens/NotFound';

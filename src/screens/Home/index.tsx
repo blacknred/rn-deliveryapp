@@ -5,7 +5,7 @@ import RestaurantItem from '../../components/RestaurantItem';
 import profileCtx, {Profile} from '../../store/profile';
 import CategoryItem from '../../components/CategoryItem';
 import CenteredText from '../../components/CenteredText';
-import {Category, Restaurant} from '../../types';
+import {Category, Restaurant} from '../../typings';
 import {icons, SIZES} from '../../constants';
 import Header from '../../components/Header';
 import useFetch from '../../hooks/useFetch';

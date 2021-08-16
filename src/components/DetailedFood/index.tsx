@@ -3,7 +3,7 @@ import {Image, TouchableOpacity} from 'react-native';
 import useColorScheme from '../../hooks/useColorScheme';
 import {COLORS, FONTS, icons} from '../../constants';
 import {Text, View} from '../Themed';
-import {Food} from '../../types';
+import {Food} from '../../typings';
 import styles from './styles';
 
 interface IDetailedFoodProps {

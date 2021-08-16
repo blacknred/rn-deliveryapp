@@ -2,7 +2,7 @@ import * as React from 'react';
 import {TouchableOpacity} from 'react-native';
 import {StackScreenProps} from '@react-navigation/stack';
 import {Text, SafeAreaView} from '../../components/Themed';
-import {RootStackParamList, Screen} from '../../types';
+import {RootStackParamList, Screen} from '../../typings';
 import {FONTS} from '../../constants';
 import styles from './styles';
 

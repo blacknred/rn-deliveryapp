@@ -2,7 +2,7 @@ import {Animated} from 'react-native';
 import React, {useCallback, useRef, useState} from 'react';
 import {View, SafeAreaView} from '../../components/Themed';
 import {StackScreenProps} from '@react-navigation/stack';
-import {Screen, RootStackParamList} from '../../types';
+import {Screen, RootStackParamList} from '../../typings';
 import DetailedFood from '../../components/DetailedFood';
 import useColorScheme from '../../hooks/useColorScheme';
 import {COLORS, icons, SIZES} from '../../constants';

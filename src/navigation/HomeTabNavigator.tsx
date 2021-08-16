@@ -8,7 +8,7 @@ import Svg, {Path} from 'react-native-svg';
 import {Image, TouchableOpacity} from 'react-native';
 import {isIphoneX} from 'react-native-iphone-x-helper';
 import useColorScheme from '../hooks/useColorScheme';
-import {HomeTabParamList, Screen} from '../types';
+import {HomeTabParamList, Screen} from '../typings';
 import ProfileScreen from '../screens/Profile';
 import {COLORS, icons} from '../constants';
 import SearchScreen from '../screens/Search';

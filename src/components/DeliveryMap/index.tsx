@@ -5,7 +5,7 @@ import MapView, {PROVIDER_GOOGLE, Marker} from 'react-native-maps';
 import {COLORS, FONTS, GOOGLE_API_KEY, icons} from '../../constants';
 import useColorScheme from '../../hooks/useColorScheme';
 import {Location} from '../../store/profile';
-import {Coordinates} from '../../types';
+import {Coordinates} from '../../typings';
 import {Text, View} from '../Themed';
 import styles from './styles';
 

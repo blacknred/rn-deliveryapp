@@ -18,6 +18,7 @@ export default function useFetch<T>(
         // const res = await fetch(validUrl, options);
         // const data = await res.json();
         const data = await API[url](options);
+        // console.table(data);
         setResponse(data);
       } catch (e) {
         setError(e);

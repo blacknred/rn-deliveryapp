@@ -1,5 +1,5 @@
 import {createContext} from 'react';
-import {Profile} from '../typings';
+import {Profile} from '../src/typings';
 
 const initialState = {
   cardPreview: 8888,

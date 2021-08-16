@@ -1,7 +1,7 @@
 import React, {useContext} from 'react';
 import {StackScreenProps} from '@react-navigation/stack';
 import profileCtx, {Profile} from '../../store/profile';
-import {Screen, RootStackParamList} from '../../types';
+import {Screen, RootStackParamList} from '../../typings';
 import CourierInfo from '../../components/CourierInfo';
 import {SafeAreaView} from '../../components/Themed';
 import Map from '../../components/DeliveryMap';

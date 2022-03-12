@@ -1,6 +1,7 @@
 {
-  "name": "rn_delivery_app",
+  "name": "rn-deliveryapp",
   "version": "0.0.1",
+  "author": "Dmitry Tretyakov <tretyakov.dmi@gmail.com> (https://blacknred.github.io/)",
   "private": true,
   "scripts": {
     "android": "react-native run-android",

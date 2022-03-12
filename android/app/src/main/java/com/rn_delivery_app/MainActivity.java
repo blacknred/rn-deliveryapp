@@ -1,4 +1,4 @@
-package com.rn_delivery_app;
+package com.rn-deliveryapp;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "rn_delivery_app";
+    return "rn-deliveryapp";
   }
 }
